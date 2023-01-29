@@ -1,0 +1,80 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+
+body {
+  width:100%;
+  background-image: url("https://c1.wallpaperflare.com/preview/718/665/272/people-man-laptop-mac.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Tahoma;
+  
+}
+
+
+h1{
+  
+  font-size:8vmin;
+  margin-top: 3vh;
+  text-align: center;
+  color: black;
+}
+
+
+p{
+  font-size:6vmin;
+  
+  text-align: center;
+  color: black;
+}
+
+form{
+  font-size: 3vmin;
+  background-color:grey;
+  text-align:center;
+  color: black;
+  width: 70vw;
+  max-width: 500px;
+  min-width: 250px;
+  margin: 0 auto;
+  padding-bottom: 2vh;
+}
+
+
+label {
+  display: block;
+  margin: 2rem 0;
+  padding: 1em;
+}
+input{
+  font-size: 3vmin;
+  border-radius:5px;
+  border:none;
+}
+
+#choose {
+  width: 8em;
+  height: 1.5em;
+  margin: 0 auto;
+  display: block;
+  font-size: 3vmin;
+}
+
+bruh{
+  display: block;
+  margin: 2vh auto;
+}
+
+#submit{
+  display: block;
+  width:70%;
+  height:7vh;
+  font-size: 3vmin;
+  margin: 0 auto;
+}
+.txt{
+  font-weight: bold;
+}
